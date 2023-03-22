@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as s}from"./index-ca017b57.js";const c={mounted(){}},n={class:"container"},a=s("h1",null,"這是前台首頁, 請點擊導覽列的項目",-1),_=[a];function r(d,i,p,l,f,m){return o(),t("div",n,_)}const h=e(c,[["render",r]]);export{h as default};
