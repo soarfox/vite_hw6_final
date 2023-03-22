@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-c0c3596b.js";const c={},n={class:"container"},a=t("h3",null,"常見問題",-1),r=[a];function _(i,d,p,l,f,h){return o(),s("div",n,r)}const m=e(c,[["render",_]]);export{m as default};
